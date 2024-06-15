@@ -7,4 +7,5 @@ Ref:  https://admir-cosic.medium.com/example-of-micro-frontends-using-single-spa
 https://github.com/adodado/micro_frontend_article_root_config/tree/main
 
 
-Ref:3 create and deploy the react mfe with AWS S3 ,with CORs issue solved
+Ref:3 https://www.freecodecamp.org/news/developing-and-deploying-micro-frontends-with-single-spa/
+create and deploy the react mfe with AWS S3 ,with CORs issue solved
